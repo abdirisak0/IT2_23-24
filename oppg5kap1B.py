@@ -1,2 +1,2 @@
 #
-abdi
+navn = "abdi"
