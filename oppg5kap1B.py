@@ -1,1 +1,4 @@
-jfoefjwefpj
+from ctypes import LittleEndianStructure
+
+
+Linus
